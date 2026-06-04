@@ -1,0 +1,16 @@
+pub mod config_commands;
+pub mod hermes_commands;
+pub mod session_commands;
+pub mod profile_commands;
+pub mod installer_commands;
+pub mod ssh_commands;
+pub mod model_commands;
+pub mod tools_commands;
+pub mod skills_commands;
+pub mod memory_commands;
+pub mod cron_commands;
+pub mod gateway_commands;
+pub mod kanban_commands;
+pub mod soul_commands;
+pub mod claw3d_commands;
+pub mod system_commands;
